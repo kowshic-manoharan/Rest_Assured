@@ -126,5 +126,9 @@
 	<classpathentry kind="lib" path="D:/Selenium Drivers/jcommander-1.78.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium Drivers/guice-4.2.3.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium Drivers/testng-6.9.8.jar"/>
+	<classpathentry kind="lib" path="D:/RestAssuredDrivers/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/RestAssuredDrivers/jackson-annotations-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/RestAssuredDrivers/jackson-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/RestAssuredDrivers/jackson-databind-2.11.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
